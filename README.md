@@ -9,7 +9,7 @@
     👐안녕하세요 반갑습니다👐<br>
     제 이름은 김지훈이고 반도체 공정 및 데이터 분석 관련하여 공부하고 있습니다.<br>
    <br>
-   <a href="https://www.notion.so/Semiconductor-Engineer-7c6fddca21904cd5a4e6f02eab4be2ed">   
+   <a href="https://www.notion.so/_SK-5004d9c75d42474c9bb7a9d8e60fe05b">   
       <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
    </a>
 <br>
